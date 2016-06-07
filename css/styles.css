@@ -1,0 +1,65 @@
+body{
+background-image: url(../images/cheap_diagonal_fabric/cheap_diagonal_fabric.png);
+margin: 40px;
+}
+
+li{
+display: inline;
+font-size: 20px;
+padding-right: 30px;
+}
+
+ul{
+list-style-type: none;
+padding-top: 100px;
+padding-bottom: 5px;
+border-bottom: 3px solid black;
+font-family: fantasy;
+
+}
+
+p{
+line-height: 2em;
+font-family: fantasy;
+}
+
+h1{
+padding-top: 40px;
+font-family: fantasy;
+}
+
+footer{
+margin-top: 70px;
+}
+
+video{
+width: 600px;
+
+}
+
+table {
+    border-collapse: collapse;
+    background-color:aliceblue;
+    margin-top: 50px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-family: fantasy;
+    padding: 5px;
+}
+
+a{
+color: cadetblue;
+}
+
+section.story{
+width: 700px;
+}
+
+aside{
+margin-top: 150px;
+width:250px;
+float: right;
+}
+
